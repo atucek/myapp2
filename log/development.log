@@ -42,3 +42,36 @@ Rendering rescues/layout (not_found)
 Processing PagesController#contact (for 127.0.0.1 at 2010-03-09 20:53:15) [GET]
 Rendering pages/contact
 Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-03-09 21:14:57) [GET]
+Rendering pages/contact
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-03-09 21:15:05) [GET]
+Rendering pages/about
+Completed in 31ms (View: 16, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-03-09 21:15:13) [GET]
+Rendering pages/home
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-03-09 21:29:35) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 63ms (View: 47, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-03-09 21:29:42) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 109ms (View: 109, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-03-09 21:29:46) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/contact]
